@@ -16,12 +16,14 @@ Application Web (ReactJs, Bootstrap, Git) à partir des APIs de la NASA, HUBBLE 
 N2YO, permettant de consulter les actualités dans le domaine du spatial, les
 archives de la NASA, les photos envoyées quotidiennement par Curiosity, la
 position de satellites dont la station spatiale internationale (ISS).
+
 [Visitez le site Space Walk](https://spacewalk.wild31.com/)
 
 * **Développeuse Web** _Wild Code School Toulouse_ /   
 De février 2019 à mars 2019  
 
 Développement d'un blog sur le thème de l'espace (Bootstrap, HTML5, CSS3, Git).
+
 [Visitez le blog de la Wild Space School](https://mystifying-heisenberg-a28bda.netlify.com/)
 
 ## Hobbies  
