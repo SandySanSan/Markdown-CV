@@ -23,6 +23,6 @@ De février 2019 à mars 2019
 
 Développement d'un blog sur le thème de l'espace (Bootstrap, HTML5, CSS3, Git).
 [Visitez le blog de la Wild Space School](https://mystifying-heisenberg-a28bda.netlify.com/)
-Chargée de Modération Atchik Toulouse / De mars 2010
+
 ## Hobbies  
 Lecture, musique, Kalarippayat
