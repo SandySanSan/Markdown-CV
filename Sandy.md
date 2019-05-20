@@ -3,7 +3,7 @@
 # PROLHAC Sandy - CV
 
 ## Présentation  
-
+En reconversion profesionnelle, passionnée de code.
 ## Formation  
 * Titre RNCP Niveau III - Développeur Web - Wild Code School(Toulouse)  
 * Titre RNCP Niveau II - Photographe - ETPA (Toulouse)
